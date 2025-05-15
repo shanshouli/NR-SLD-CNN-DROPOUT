@@ -1,4 +1,4 @@
-This project aims to predict Scattering Length Density (SLD) profiles from Neutron Reflectivity (NR) data using a 1D CNN architecture.
+This work aims to predict Scattering Length Density (SLD) profiles from Neutron Reflectivity (NR) data using a 1D CNN architecture.
 
 Key improvements include:
 
