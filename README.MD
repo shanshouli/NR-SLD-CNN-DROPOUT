@@ -16,4 +16,3 @@ This project builds on work by:
 - Brian Qu ([NR-SLD-CNN](https://github.com/BBQ591/NR-SLD-CNN))  
 - Dr. Rajeev Kumar  
 - Prof. Miguel Fuentes-Cabrera ([NR-SCFT-ML](https://github.com/miguel-fc/NR-SCFT-ML))
-- Hudson Kass
